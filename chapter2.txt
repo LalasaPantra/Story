@@ -4,5 +4,10 @@ git add [filename]
 git status
 git commit -m "add a message for every commit in staging area"
 git log
-
-
+git checkout [filename/branch] "to switch to previous versions"
+git rm --cached -r . 
+git diff [filename]
+git clone
+git branch [branchname]
+git merge [branchname]
+:q!
